@@ -1,4 +1,4 @@
-import Button from "../../components/Button"
+import Button from "../components/Button"
 import {CupcakeChoco, DonerKebab, DoughnutMilk, DoughnutUnicorn, KathiKebab, PizzaMeat, PizzaPaperoni, SalmonRoll} from "../assets/images"
 
 const Trending = () => {
