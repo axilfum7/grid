@@ -1,5 +1,5 @@
 import { CupCake,Pizza,Kebab,Salmon,Doughnut } from "../assets/images"
-import { CategoryCard } from "../components"
+import { Button, CategoryCard } from "../components"
 
 const Category = () => {
   const categoryList = [
@@ -26,7 +26,7 @@ const Category = () => {
             <CategoryCard key={item.id} item={item}/>
           ))}
         </ul>
-
+        <Button title={"PREV"}/>
       </div>
     </section>
   )

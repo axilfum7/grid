@@ -1,4 +1,4 @@
-import { Category, Header, Hero } from "./modules"
+import { Category, Footer, Header, Hero, Trending } from "./modules"
 
 
 const App = () => {
@@ -8,6 +8,8 @@ const App = () => {
     <main>
       <Hero/>
       <Category/>
+      <Trending/>
+      <Footer/>
     </main>
     </>
   )

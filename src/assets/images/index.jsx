@@ -5,5 +5,13 @@ import Pizza from "./pizza.svg"
 import Kebab from "./kebab.svg"
 import Doughnut from "./doughnut.svg"
 import Salmon from "./salmon.svg"
+import CupcakeChoco from "./CupcakeChoco.svg"
+import DonerKebab from "./DonerKebab.svg"
+import DoughnutMilk from "./DoughnutMilk.svg"
+import DoughnutUnicorn from "./DoughnutUnicorn.svg"
+import KathiKebab from "./KathiKebab.svg"
+import PizzaMeat from "./PizzaMeat.svg"
+import PizzaPaperoni from "./PizzaPaperoni.svg"
+import SalmonRoll from "./SalmonRoll.svg"
 
-export {Logo, HeroImg, CupCake, Pizza, Kebab, Doughnut, Salmon}
+export {Logo, HeroImg, CupCake, Pizza, Kebab, Doughnut, Salmon, CupcakeChoco, DonerKebab, DoughnutMilk, DoughnutUnicorn, KathiKebab, PizzaMeat, PizzaPaperoni, SalmonRoll}
